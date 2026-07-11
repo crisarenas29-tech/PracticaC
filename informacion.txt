@@ -1,2 +1,3 @@
 Mi primer proyecto con Git 
-Estoy aprendiendo git y github
+Estoy aprendiendo git y GitHub
+Este archivo fue actualizado en el segundo commit.
